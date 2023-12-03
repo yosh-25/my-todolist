@@ -110,7 +110,7 @@ function App() {
         <ul style={ulStyle}>
           {todos.map((todo, todoId) => (
             <li key={todoId}>
-              {todo.id}
+              {/* {todo.id} */}
               {todo.name}
               <button
                 style={ulButtonStyle}
