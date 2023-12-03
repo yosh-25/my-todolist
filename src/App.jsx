@@ -94,7 +94,7 @@ function App() {
   return (
     <>
       <div style={{ width: "1000px" }}>
-        <h1 style={h1Style}>ToDoリスト</h1>
+        <h1 style={h1Style}>Todoリスト</h1>
         <div style={divInputStyle}>
           <input
             value={todo}
